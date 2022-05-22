@@ -1,6 +1,6 @@
 # Simple SOCKS5 proxy
 
-This is a simple socks5 proxy based on [go-socks5](github.com/armon/go-socks5)
+This is a simple socks5 proxy based on [go-socks5](https://github.com/armon/go-socks5)
 library.
 
 ## Usage
